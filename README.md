@@ -1,3 +1,4 @@
+
  Weather Forecast App
 
  A modern Android app that displays a 3-day weather forecast with offline support, built using Clean Architecture and MVVM.
@@ -102,4 +103,3 @@ UI enhancements
 
 
 
- 
