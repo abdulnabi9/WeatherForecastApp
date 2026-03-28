@@ -23,7 +23,7 @@ android {
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
 
-       // val apiKey = project.findProperty("WEATHER_API_KEY") ?: "DUMMY_KEY"
+       
         val apiKey = project.findProperty("WEATHER_API_KEY")?.toString() ?: "DUMMY_KEY"
 
         buildConfigField(
