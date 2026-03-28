@@ -83,20 +83,6 @@ Offline Mode
 
 
 
-  How to Run
-Clone the repository
-Add your API key in `local.properties`:
-
-   
-   WEATHER_API_KEY=your_api_key_here 
-Sync project
-Run the app
-
-
-
-
-
-
 Video Demo: Url : https://www.youtube.com/shorts/TlQehkt7h5U
 
 
